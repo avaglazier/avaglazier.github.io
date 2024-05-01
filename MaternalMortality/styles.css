@@ -22,6 +22,13 @@ h1, h2{
 #name {
     font-size: 18px;
     color: black;
+    margin-bottom: 1px;
+}
+
+#date {
+    font-size: 16px;
+    color: grey;
+    margin-top: 1px;
 }
 
 #bigger {width: 100%;
@@ -37,7 +44,7 @@ h1, h2{
 
 .divider {
     height: 2px;
-    background-color: pink;
+    background-color: #f768a1;
     margin-top: 10px;
     margin-bottom: 10px;
     }
